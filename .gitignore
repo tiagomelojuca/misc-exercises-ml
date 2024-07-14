@@ -1,0 +1,28 @@
+# System files
+__pycache__/
+*.pyc
+
+# Common virtual envs
+.venv/
+venv/
+env/
+*.env
+
+# Dependencies files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build artifacts and packaging files
+build/
+dist/
+*.egg-info/
+*.egg
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Other
+*.bak
+*.DS_Store
+Thumbs.db
